@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🏄‍♂️ I have a [blog](http://peyet.org/).
+- 🌱 I’m currently learning iOS.
+
 
 <!--
 **Peyet/Peyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
