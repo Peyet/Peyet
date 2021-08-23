@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🏄‍♂️ I have a [blog](http://peyet.org/).
+- 🏄 I have a [blog](http://peyet.org/).
 - 🌱 I’m currently learning iOS.
 
 
